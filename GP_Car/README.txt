@@ -3,12 +3,8 @@
              Sistema de Gerenciamento e Locação de Veículos
 ========================================================================
 
-DESENVOLVEDORES:
-- Arthur Yan
+DESENVOLVEDOR:
 - Joaquim Morais
-- Gabriel Guimarães
-- Guilherme Cavalcante
-- Rômulo Almeida
 
 ------------------------------------------------------------------------
 1. PRÉ-REQUISITOS

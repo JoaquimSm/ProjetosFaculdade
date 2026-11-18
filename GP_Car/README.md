@@ -97,7 +97,7 @@ Baseado em modelagem relacional feita no **brModelo**:
 #### Passos:
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/gp-car.git
+   git clone https://github.com/JoaquimSm/ProjetosFaculdade.git
    ```
 2. Importe o banco de dados:
    - Abra o MySQL Workbench e execute o script `database.sql` incluído na raiz.
@@ -113,12 +113,8 @@ Baseado em modelagem relacional feita no **brModelo**:
 
 ---
 
-### 👥 Equipe de Desenvolvimento
-- **Arthur Yan**
-- **Joaquim Morais**
-- **Gabriel Guimarães**
-- **Guilherme Cavalcante**
-- **Rômulo Almeida**
+### 👨‍💻 Desenvolvedor
+- **Joaquim Morais** - [GitHub](https://github.com/JoaquimSm)
 
 ---
 ⭐ *Se este projeto te ajudou ou achou interessante, deixe uma estrela no repositório!*
