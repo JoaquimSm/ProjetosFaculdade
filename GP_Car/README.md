@@ -22,10 +22,11 @@ Projeto desenvolvido com foco em boas práticas de engenharia de software, adota
 ---
 
 ### 📸 Telas da Aplicação
+<img width="1919" height="1007" alt="Captura de tela 2026-11-18 192857" src="https://github.com/user-attachments/assets/4527efdc-2436-4511-a969-98a54db4ff8c" />
 
-> *(Dica: Tire um print da sua tela e salve com o nome `screenshot.png` nesta pasta para que a imagem apareça aqui no GitHub)*
 
-![Tela Principal](screenshot.png)
+
+
 
 ---
 
