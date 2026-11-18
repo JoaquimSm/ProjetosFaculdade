@@ -1,0 +1,17 @@
+## Ignorar pastas de compilação e binários
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.zip
+
+## Visual Studio cache e arquivos temporários
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Logs e relatórios
+*.log
